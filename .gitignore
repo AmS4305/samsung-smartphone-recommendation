@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.backup.ipynb
+
+# Anaconda
+*.conda
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Data files are intentionally tracked (needed for the app)
+# project1.csv
+# project2.csv
+
+# Temp scripts
+fix_notebook.py
+extract_cells.py
